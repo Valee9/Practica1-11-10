@@ -1,0 +1,17 @@
+p,h3{
+    text-align: center;
+}
+body{
+    font-family: "Inika";
+}
+.idwm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2:hover{
+    transform:translateX(15px);
+}
+a{
+    text-decoration: none;
+}
